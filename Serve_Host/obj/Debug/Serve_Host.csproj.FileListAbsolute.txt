@@ -1,0 +1,93 @@
+C:\Users\Krzysztof.Choja_Krzysztof\Desktop\c#\ServerHost\Serve_Host\Serve_Host\bin\Debug\Serve_Host.exe.config
+C:\Users\Krzysztof.Choja_Krzysztof\Desktop\c#\ServerHost\Serve_Host\Serve_Host\bin\Debug\Serve_Host.exe
+C:\Users\Krzysztof.Choja_Krzysztof\Desktop\c#\ServerHost\Serve_Host\Serve_Host\bin\Debug\Serve_Host.pdb
+C:\Users\Krzysztof.Choja_Krzysztof\Desktop\c#\ServerHost\Serve_Host\Serve_Host\obj\Debug\Serve_Host.exe
+C:\Users\Krzysztof.Choja_Krzysztof\Desktop\c#\ServerHost\Serve_Host\Serve_Host\obj\Debug\Serve_Host.pdb
+C:\Users\Krzysztof.Choja_Krzysztof\Desktop\c#\ServerHost\Serve_Host\Serve_Host\obj\Debug\Serve_Host.csprojResolveAssemblyReference.cache
+C:\Users\Krzysztof.Choja_Krzysztof\Desktop\c#\MGR things\ServerHost\Serve_Host\Serve_Host\bin\Debug\Serve_Host.exe.config
+C:\Users\Krzysztof.Choja_Krzysztof\Desktop\c#\MGR things\ServerHost\Serve_Host\Serve_Host\obj\Debug\Serve_Host.exe
+C:\Users\Krzysztof.Choja_Krzysztof\Desktop\c#\MGR things\ServerHost\Serve_Host\Serve_Host\obj\Debug\Serve_Host.pdb
+C:\Users\Krzysiek\OneDrive\MGR Praca\MGR_29.03\ServerHost\Serve_Host\Serve_Host\bin\Debug\Serve_Host.exe.config
+C:\Users\Krzysiek\OneDrive\MGR Praca\MGR_29.03\ServerHost\Serve_Host\Serve_Host\obj\Debug\Serve_Host.exe
+C:\Users\Krzysiek\OneDrive\MGR Praca\MGR_29.03\ServerHost\Serve_Host\Serve_Host\obj\Debug\Serve_Host.pdb
+C:\Users\Krzysiek\OneDrive\MGR Praca\MGR_29.03\ServerHost\Serve_Host\Serve_Host\bin\Debug\Serve_Host.exe
+C:\Users\Krzysiek\OneDrive\MGR Praca\MGR_29.03\ServerHost\Serve_Host\Serve_Host\bin\Debug\Serve_Host.pdb
+C:\Users\Krzysiek\OneDrive\MGR Praca\MGR_29.03\ServerHost\Serve_Host\Serve_Host\obj\Debug\Serve_Host.csprojResolveAssemblyReference.cache
+C:\Users\Krzysiek\OneDrive\MGR Praca\MGR_29.03\ServerHost — kopia\Serve_Host\Serve_Host\bin\Debug\Serve_Host.exe.config
+C:\Users\Krzysiek\OneDrive\MGR Praca\MGR_29.03\ServerHost — kopia\Serve_Host\Serve_Host\obj\Debug\Serve_Host.exe
+C:\Users\Krzysiek\OneDrive\MGR Praca\MGR_29.03\ServerHost — kopia\Serve_Host\Serve_Host\obj\Debug\Serve_Host.pdb
+C:\Users\Krzysiek\OneDrive\MGR Praca\Pliki Do nagrania\SystemKontrolny\C#\ProgramSerwera\Serve_Host\bin\Debug\Serve_Host.exe.config
+C:\Users\Krzysiek\OneDrive\MGR Praca\Pliki Do nagrania\SystemKontrolny\C#\ProgramSerwera\Serve_Host\obj\Debug\Serve_Host.exe
+C:\Users\Krzysiek\OneDrive\MGR Praca\Pliki Do nagrania\SystemKontrolny\C#\ProgramSerwera\Serve_Host\obj\Debug\Serve_Host.pdb
+C:\Users\Krzysiek\OneDrive\MGR Praca\Pliki Do nagrania\SystemKontrolny\C#\ProgramSerwera\Serve_Host\obj\Debug\Serve_Host.csprojResolveAssemblyReference.cache
+C:\Users\Krzysiek\OneDrive\MGR Praca\Pliki Do nagrania\SystemKontrolny\C#\ProgramSerwera\Serve_Host\bin\Debug\Serve_Host.exe
+C:\Users\Krzysiek\OneDrive\MGR Praca\Pliki Do nagrania\SystemKontrolny\C#\ProgramSerwera\Serve_Host\bin\Debug\Serve_Host.pdb
+C:\Users\Krzysiek\Desktop\ProgramSerwera\Serve_Host\bin\Debug\Serve_Host.exe.config
+C:\Users\Krzysiek\Desktop\ProgramSerwera\Serve_Host\bin\Debug\Serve_Host.exe.manifest
+C:\Users\Krzysiek\Desktop\ProgramSerwera\Serve_Host\bin\Debug\Serve_Host.application
+C:\Users\Krzysiek\Desktop\ProgramSerwera\Serve_Host\bin\Debug\Serve_Host.exe
+C:\Users\Krzysiek\Desktop\ProgramSerwera\Serve_Host\bin\Debug\Serve_Host.pdb
+C:\Users\Krzysiek\Desktop\ProgramSerwera\Serve_Host\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Krzysiek\Desktop\ProgramSerwera\Serve_Host\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Krzysiek\Desktop\ProgramSerwera\Serve_Host\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Krzysiek\Desktop\ProgramSerwera\Serve_Host\obj\Debug\Serve_Host.exe.manifest
+C:\Users\Krzysiek\Desktop\ProgramSerwera\Serve_Host\obj\Debug\Serve_Host.application
+C:\Users\Krzysiek\Desktop\ProgramSerwera\Serve_Host\obj\Debug\Serve_Host.exe
+C:\Users\Krzysiek\Desktop\ProgramSerwera\Serve_Host\obj\Debug\Serve_Host.pdb
+C:\Users\Krzysiek\Desktop\ProgramSerwera\Serve_Host\obj\Debug\Serve_Host.csprojResolveAssemblyReference.cache
+C:\Users\Krzysiek\Desktop\ProgramSerwera\Threads\Serve_Host\bin\Debug\Serve_Host.exe.config
+C:\Users\Krzysiek\Desktop\ProgramSerwera\Threads\Serve_Host\bin\Debug\Serve_Host.exe.manifest
+C:\Users\Krzysiek\Desktop\ProgramSerwera\Threads\Serve_Host\bin\Debug\Serve_Host.application
+C:\Users\Krzysiek\Desktop\ProgramSerwera\Threads\Serve_Host\bin\Debug\Serve_Host.exe
+C:\Users\Krzysiek\Desktop\ProgramSerwera\Threads\Serve_Host\bin\Debug\Serve_Host.pdb
+C:\Users\Krzysiek\Desktop\ProgramSerwera\Threads\Serve_Host\bin\Debug\Devart.Data.dll
+C:\Users\Krzysiek\Desktop\ProgramSerwera\Threads\Serve_Host\bin\Debug\Devart.Data.MySql.dll
+C:\Users\Krzysiek\Desktop\ProgramSerwera\Threads\Serve_Host\bin\Debug\EntityFramework.dll
+C:\Users\Krzysiek\Desktop\ProgramSerwera\Threads\Serve_Host\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Krzysiek\Desktop\ProgramSerwera\Threads\Serve_Host\bin\Debug\Google.Protobuf.dll
+C:\Users\Krzysiek\Desktop\ProgramSerwera\Threads\Serve_Host\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Krzysiek\Desktop\ProgramSerwera\Threads\Serve_Host\bin\Debug\MySql.Data.dll
+C:\Users\Krzysiek\Desktop\ProgramSerwera\Threads\Serve_Host\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Krzysiek\Desktop\ProgramSerwera\Threads\Serve_Host\bin\Debug\EntityFramework.xml
+C:\Users\Krzysiek\Desktop\ProgramSerwera\Threads\Serve_Host\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Krzysiek\Desktop\ProgramSerwera\Threads\Serve_Host\bin\Debug\Google.Protobuf.xml
+C:\Users\Krzysiek\Desktop\ProgramSerwera\Threads\Serve_Host\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Krzysiek\Desktop\ProgramSerwera\Threads\Serve_Host\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Krzysiek\Desktop\ProgramSerwera\Threads\Serve_Host\obj\Debug\Serve_Host.exe.manifest
+C:\Users\Krzysiek\Desktop\ProgramSerwera\Threads\Serve_Host\obj\Debug\Serve_Host.application
+C:\Users\Krzysiek\Desktop\ProgramSerwera\Threads\Serve_Host\obj\Debug\Serve_Host.exe
+C:\Users\Krzysiek\Desktop\ProgramSerwera\Threads\Serve_Host\obj\Debug\Serve_Host.pdb
+C:\Users\Krzysiek\Desktop\ProgramSerwera\Threads - uruchomiony\Serve_Host\bin\Debug\Serve_Host.exe.config
+C:\Users\Krzysiek\Desktop\ProgramSerwera\Threads - uruchomiony\Serve_Host\obj\Debug\Serve_Host.exe
+C:\Users\Krzysiek\Desktop\ProgramSerwera\Threads - uruchomiony\Serve_Host\obj\Debug\Serve_Host.pdb
+D:\HomeRepository\ZapisTemperaturyDomService\Serve_Host\bin\Debug\Serve_Host.exe.config
+D:\HomeRepository\ZapisTemperaturyDomService\Serve_Host\bin\Debug\Serve_Host.exe.manifest
+D:\HomeRepository\ZapisTemperaturyDomService\Serve_Host\bin\Debug\Serve_Host.application
+D:\HomeRepository\ZapisTemperaturyDomService\Serve_Host\bin\Debug\Serve_Host.exe
+D:\HomeRepository\ZapisTemperaturyDomService\Serve_Host\bin\Debug\Serve_Host.pdb
+D:\HomeRepository\ZapisTemperaturyDomService\Serve_Host\bin\Debug\Devart.Data.dll
+D:\HomeRepository\ZapisTemperaturyDomService\Serve_Host\bin\Debug\Devart.Data.MySql.dll
+D:\HomeRepository\ZapisTemperaturyDomService\Serve_Host\bin\Debug\EntityFramework.dll
+D:\HomeRepository\ZapisTemperaturyDomService\Serve_Host\bin\Debug\EntityFramework.SqlServer.dll
+D:\HomeRepository\ZapisTemperaturyDomService\Serve_Host\bin\Debug\Google.Protobuf.dll
+D:\HomeRepository\ZapisTemperaturyDomService\Serve_Host\bin\Debug\HtmlAgilityPack.dll
+D:\HomeRepository\ZapisTemperaturyDomService\Serve_Host\bin\Debug\MySql.Data.dll
+D:\HomeRepository\ZapisTemperaturyDomService\Serve_Host\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\HomeRepository\ZapisTemperaturyDomService\Serve_Host\bin\Debug\EntityFramework.xml
+D:\HomeRepository\ZapisTemperaturyDomService\Serve_Host\bin\Debug\EntityFramework.SqlServer.xml
+D:\HomeRepository\ZapisTemperaturyDomService\Serve_Host\bin\Debug\Google.Protobuf.xml
+D:\HomeRepository\ZapisTemperaturyDomService\Serve_Host\bin\Debug\HtmlAgilityPack.pdb
+D:\HomeRepository\ZapisTemperaturyDomService\Serve_Host\bin\Debug\HtmlAgilityPack.xml
+D:\HomeRepository\ZapisTemperaturyDomService\Serve_Host\obj\Debug\Serve_Host.exe.manifest
+D:\HomeRepository\ZapisTemperaturyDomService\Serve_Host\obj\Debug\Serve_Host.application
+D:\HomeRepository\ZapisTemperaturyDomService\Serve_Host\obj\Debug\Serve_Host.exe
+D:\HomeRepository\ZapisTemperaturyDomService\Serve_Host\obj\Debug\Serve_Host.pdb
+D:\HomeRepository\ZapisTemperaturyDomService\Serve_Host\obj\Debug\Serve_Host.csprojResolveAssemblyReference.cache
+D:\HomeRepository\ZapisTemperaturyDomService\Serve_Host\obj\Debug\Serve_Host.Migrations.AddSeptemberMigration.resources
+D:\HomeRepository\ZapisTemperaturyDomService\Serve_Host\obj\Debug\Serve_Host.csproj.GenerateResource.Cache
+D:\HomeRepository\ZapisTemperaturyDomServiceNaWatkach\Serve_Host\bin\Debug\Serve_Host.exe.config
+D:\HomeRepository\ZapisTemperaturyDomServiceNaWatkach\Serve_Host\obj\Debug\Serve_Host.exe
+D:\HomeRepository\ZapisTemperaturyDomServiceNaWatkach\Serve_Host\obj\Debug\Serve_Host.pdb
+D:\HomeRepository\ZapisTemperaturyDomServiceNaWatkachGIT\Serve_Host\bin\Debug\Serve_Host.exe.config
+D:\HomeRepository\ZapisTemperaturyDomServiceNaWatkachGIT\Serve_Host\obj\Debug\Serve_Host.exe
+D:\HomeRepository\ZapisTemperaturyDomServiceNaWatkachGIT\Serve_Host\obj\Debug\Serve_Host.pdb
